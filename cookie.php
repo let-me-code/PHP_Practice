@@ -3,6 +3,7 @@ $cookie_name = "Saurabh";
 $cookie_value = "Gupta";
 setcookie($cookie_name, $cookie_value, time() + (86400 * 30), "/"); // 86400 = 1 day
 ?>
+#setcookie() should be written before HTML tag....!!!!
 <html>
 <body>
 
