@@ -9,7 +9,7 @@
         <section id="contact">
             <div class="contact-section">
             <div class="container">
-                <form action="add.php" method='post' name='form'>
+                <form action="add.php" method='get' name='form'>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label>Your name</label>
